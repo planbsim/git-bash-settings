@@ -1,0 +1,11 @@
+Use Visual Studio Code as git-bash editor:
+
+https://code.visualstudio.com/updates/vMarch#_setup
+
+git config --global core.editor "code --wait"
+git config --global -e
+
+[diff]
+    tool = default-difftool
+[difftool "default-difftool"]
+    cmd = code --wait --diff $LOCAL $REMOTE
