@@ -9,3 +9,15 @@ git config --global -e
     tool = default-difftool
 [difftool "default-difftool"]
     cmd = code --wait --diff $LOCAL $REMOTE
+
+Set up Git after the installation:
+
+git config --global user.name "Max Mustermann"
+git config --global user.email "max@mustermann.at"
+
+Preferred git aliases
+
+git config --global alias.s       status
+git config --global alias.l       'log --oneline -10'
+git config --global alias.cm      'commit --message'
+git config --global alias.glog    'log --graph --oneline'
