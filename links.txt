@@ -1,0 +1,14 @@
+Git-Links by Marc Kurz
+
+Links:
+
+GIT: https://git-scm.com/downloads
+GIT Cheatsheet: http://ndpsoftware.com/git-cheatsheet.html
+ConEmu: https://conemu.github.io/
+GIT Book: https://git-scm.com/book/en/v2
+SourceTree: https://www.sourcetreeapp.com/
+TortoiseGIT: https://tortoisegit.org/
+Oh Shit, Git: http://ohshitgit.com/
+Learn Git Branching: http://learngitbranching.js.org/
+
+
