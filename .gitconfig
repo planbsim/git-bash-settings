@@ -1,0 +1,10 @@
+[core]
+	editor = code --wait
+[alias]
+	s = status
+	l = log --oneline -10
+	cm = commit --message
+	glog = log --graph --oneline
+[user]
+	name = Simon Planberger
+	email = simon.planberger@atn.nu
